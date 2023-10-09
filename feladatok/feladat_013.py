@@ -4,3 +4,5 @@ szam = int(input("Adj meg egy számot: "))
 
 if szam < 0:
     print(f"{szam} negativ szam")
+else:
+    print(f"{szam} nem negativ szam")
